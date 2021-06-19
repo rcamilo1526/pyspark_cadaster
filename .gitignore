@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 #BASE
+BASE_BOYACA/
 TOTAL_NACIONAL_REG2.txt
