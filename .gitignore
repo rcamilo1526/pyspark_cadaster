@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#BASE
+TOTAL_NACIONAL_REG2.txt
